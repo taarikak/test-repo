@@ -14,4 +14,4 @@ Feature: API testing
     Then the response status code should be 201
     And the response body should contain userId "1"
 
-    #this is with amend
+    #this is without amend
