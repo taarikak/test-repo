@@ -13,3 +13,5 @@ Feature: API testing
     | my title taarika| my body | 1 |
     Then the response status code should be 201
     And the response body should contain userId "1"
+
+    #this is without amend
