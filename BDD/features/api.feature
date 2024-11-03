@@ -1,3 +1,4 @@
+#rebase
 Feature: API testing
 
     Scenario: Validate the response from GET request
